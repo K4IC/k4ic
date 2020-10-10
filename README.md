@@ -14,9 +14,9 @@
     Takes up Bachelor of Science in Information Technology
     A person who collects, trades, or admires sneakers as a hobby.
     
-* <img src="facebook .png" width = "20px" height = "20px" img align = "left"> 
-
- Krsitiana cabida
+* <img src="facebook .png" width = "15px" height = "15px" img align = "left">Krsitiana cabida
+* <img src="twitter.png" width = "20px" height = "20px" img align = "left">Krsitiana cabida
+* <img src="instagram.png" width = "15px" height = "15px" img align = "left">Krsitiana cabida
 
 Markdown is a lightweight markup language based on the formatting conventions that people naturally use in email.  As [John Gruber] writes on the [Markdown site][df1]
 
