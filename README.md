@@ -28,8 +28,9 @@
 </div>
 
 
- ## <div align = "center"> :movie_camera: Me in a nutshell :shoe: </div>
+ ## <div align = "center">  <em> Me in a nutshell </em>  </div>
 <p align = "center"> Sneakerhead - a person who collects, trades, or admires sneakers as a hobby. </p> 
+<p align = "center"> Multimedia - (of art, education, etc.) using more than one medium of expression or communication. </p> 
 <p align = "center"> A guy who loves sneakers and cameras. Sneaker collector and also has the love for multiple forms of media. Always updated on the latest trends on sneakers and has a curious mind for Photography and Videography. </p>
 
 
