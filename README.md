@@ -1,8 +1,5 @@
 <img src="Sunset.png"  width = "100%" height = "220px" img align = "center"> 
 
-<div align="center" style="font_family:'Zapf-Chancery';"> <em>seas the day</em></div>
-
-
 # Hi, Im Allan 👋
 
 Markdown is a lightweight markup language based on the formatting conventions that people naturally use in email.  As [John Gruber] writes on the [Markdown site][df1]
