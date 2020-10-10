@@ -13,7 +13,7 @@
     From Roxas City, Capiz, Philippines 
     Takes up Bachelor of Science in Information Technology
     A person who collects, trades, or admires sneakers as a hobby.
-> <em> Life goes on. </em>
+> <em> "Life goes on." </em>
 
 # <div align = "center"> Sneakerhead x Multimedia Hobbyist </div>
 <div align = "center"> <em> Me in a nutshell </em> </div>
