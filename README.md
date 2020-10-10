@@ -1,6 +1,6 @@
 <img src="SUNSET.png"  width = "100%" height = "225px" img align = "center"> 
 
-# Hi, Im Allan 👋
+# Kristian Allan—@K4IC
 
 > <em> A man living on the edge of time itself. See me speedrunning and clashing through different wars at the last minute. Having pressure always lurking by my side through battles and whose punctuality is rarely found I enter the battleground. Conquering deadlines, delivering satisfaction and withstanding sleep I fight until the last second. </em>
 
@@ -8,13 +8,15 @@
 
 <img src="profile.jpg" width = "140px" height = "140px" img align = "left"> 
 
-#### Kristian Allan Icay Cabida
+#### KRISTIAN ALLAN ICAY CABIDA
     Born on May 17, 2000 
     From Roxas City, Capiz, Philippines 
     Takes up Bachelor of Science in Information Technology
     A person who collects, trades, or admires sneakers as a hobby.
     
+<img src="facebook .png" width = "50px" height = "50px" img align = "left"> 
 
+* Krsitiana cabida
 
 Markdown is a lightweight markup language based on the formatting conventions that people naturally use in email.  As [John Gruber] writes on the [Markdown site][df1]
 
