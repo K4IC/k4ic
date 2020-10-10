@@ -21,7 +21,8 @@
 <img src="Test.png" width = "27%" height = "27%" img align = "right"> 
 
 ## <div align = "right"> :movie_camera: Multimedia Hobbyist </div>
-<p align = "right"> Sneakerhead, noun: sneakerhead; - a person who collects, trades, or admires sneakers as a hobby. </p>
+<p align = "right"> Sneakerhead - a person who collects,  </p>
+<p align = "right"> trades, or admires sneakers as a hobby. </p>
 <p align = "right"> A guy who loves sneakers and cameras. Sneaker collector and also has the love for multiple forms of media. Always updated on the latest trends on sneakers and has a curious mind for Photography and Videography. </p>
 
 
