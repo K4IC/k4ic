@@ -18,8 +18,8 @@
 # <div align = "center"> Sneakerhead x Multimedia Hobbyist </div>
 <div align = "center"> <em> Me in a nutshell </em> </div>
 
-<img src="multimedia.png" width = "27%" height = "27%" img align = "right"> 
-<img src="sneakerhead.png" width = "27%" height = "27%" img align = "left"> 
+<img src="multimedia.png" width = "20%" height = "23%" img align = "right"> 
+<img src="sneakerhead.png" width = "20%" height = "20%" img align = "left"> 
 
 ## <div align = "center"> :movie_camera: Multimedia Hobbyist </div>
 <p align = "center"> Sneakerhead - a person who collects, trades, or admires sneakers as a hobby. </p> 
