@@ -1,8 +1,9 @@
 ### Hi there 👋
 
-<img src="profile.jpg"  width = "200px" height = "200px"> | test test
-------- | --------
-
+ <img src="profile.jpg"  width = "200px" height = "200px"> 
+ 
+  | *KRISTIAN ALLAN CABIDA* | xfsd |
+                                                          
 Markdown is a lightweight markup language based on the formatting conventions that people naturally use in email.  As [John Gruber] writes on the [Markdown site][df1]
 
 *> The overriding design goal for Markdown's*
