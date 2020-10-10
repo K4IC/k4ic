@@ -18,12 +18,12 @@
 # <div align = "center"> Sneakerhead x Multimedia Hobbyist </div>
 <div align = "center"> <em> Me in a nutshell </em> </div>
 
-<img src="Test.png" width = "27%" height = "27%" img align = "right"> 
+<img src="multimedia.png" width = "27%" height = "27%" img align = "right"> 
+<img src="sneakerhead.png" width = "27%" height = "27%" img align = "left"> 
 
-## <div align = "right"> :movie_camera: Multimedia Hobbyist </div>
-<p align = "right"> Sneakerhead - a person who collects,  </p>
-<p align = "right"> trades, or admires sneakers as a hobby. </p>
-<p align = "right"> A guy who loves sneakers and cameras. Sneaker collector and also has the love for multiple forms of media. Always updated on the latest trends on sneakers and has a curious mind for Photography and Videography. </p>
+## <div align = "center"> :movie_camera: Multimedia Hobbyist </div>
+<p align = "center"> Sneakerhead - a person who collects, trades, or admires sneakers as a hobby. </p> 
+<p align = "center"> A guy who loves sneakers and cameras. Sneaker collector and also has the love for multiple forms of media. Always updated on the latest trends on sneakers and has a curious mind for Photography and Videography. </p>
 
 
 
