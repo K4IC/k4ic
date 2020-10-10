@@ -14,7 +14,7 @@
     Takes up Bachelor of Science in Information Technology
     A person who collects, trades, or admires sneakers as a hobby.
     
-<img src="facebook .png" width = "20px" height = "20px" img align = "left"> 
+* <img src="facebook .png" width = "20px" height = "20px" img align = "left"> 
 
  Krsitiana cabida
 
