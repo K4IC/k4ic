@@ -7,7 +7,6 @@
 ### <b> About Me </b>
 
 <img src="profile.jpg" width = "140px" height = "140px" img align = "left"> 
-
 #### Kristian Allan Icay Cabida
     Born on May 17, 2000 
     Studies at West Visayas State University
