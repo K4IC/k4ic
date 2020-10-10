@@ -20,11 +20,11 @@
 
 <div class="row">
   <div class="column">
-    <img src="multimedia.png" width = "17%" height = "17%" img align = "right"> 
+    <img src="multimedia.png" width = "15%" height = "15%" img align = "right"> 
   </div>
   
   <div class="column">
-    <img src="sneakerhead.png" width = "17%" height = "17%" img align = "left"> 
+    <img src="sneakerhead.png" width = "15%" height = "15%" img align = "left"> 
   </div>
 </div>
 
