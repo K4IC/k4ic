@@ -18,11 +18,20 @@
 # <div align = "center"> Sneakerhead x Multimedia Hobbyist </div>
 <div align = "center"> <em> Me in a nutshell </em> </div>
 
+
+## <div align = "right"> :movie_camera: Multimedia Hobbyist </div>
+<p align = "right"> chuchuchuchu </p>
+
+## <div align = "left"> :movie_camera: Multimedia Hobbyist </div>
+<p align = "left"> chuchuchuchu </p>
+
+
 ## Get in Touch 
 
 * <img src="facebook .png" width = "15px" height = "15px" img align = "left"> https://www.facebook.com/_kristianallan_/
 * <img src="twitter.png" width = "15px" height = "15px" img align = "left"> https://twitter.com/_kristianallan_/
 * <img src="instagram.png" width = "15px" height = "15px" img align = "left"> https://www.instagram.com/_kristianallan_/
+
 
 
 <!--
@@ -39,3 +48,4 @@ Here are some ideas to get you started: hh
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+ 
