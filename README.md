@@ -1,6 +1,6 @@
 <img src="Sunset.png"  width = "100%" height = "220px" img align = "center"> 
 
-<div align="center"> *seas the day* </div>
+<div align="center" font size="10"> <em>seas the day</em></div>
 
 
 # Hi, Im Allan 👋
