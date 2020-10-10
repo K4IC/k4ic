@@ -1,6 +1,6 @@
 <img src="Sunset.png"  width = "100%" height = "220px" img align = "center"> 
 
-<div align="center" font size="13" style= "font_family:Zapf-Chancery"> <em>seas the day</em></div>
+<div align="center"> <em>seas the day</em></div>
 
 
 # Hi, Im Allan 👋
