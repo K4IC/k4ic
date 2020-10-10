@@ -1,5 +1,6 @@
 ### Hi there 👋
 
+<img src="profile.jpg" alt="My cool logo"/>
 ![Image of Yaktocat]
 (https://octodex.github.com/images/yaktocat.png)
 
