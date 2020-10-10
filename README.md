@@ -18,13 +18,12 @@
 # <div align = "center"> Sneakerhead x Multimedia Hobbyist </div>
 <div align = "center"> <em> Me in a nutshell </em> </div>
 
-<img src="Test.png" width = "40%" height = "40%" img align = "right"> 
+<img src="Test.png" width = "27%" height = "27%" img align = "right"> 
 
 ## <div align = "right"> :movie_camera: Multimedia Hobbyist </div>
-<p align = "right"> chuchuchuchu </p>
+<p align = "right"> Sneakerhead, noun: sneakerhead; - a person who collects, trades, or admires sneakers as a hobby. </p>
+<p align = "right"> A guy who loves sneakers and cameras. Sneaker collector and also has the love for multiple forms of media. Always updated on the latest trends on sneakers and has a curious mind for Photography and Videography. </p>
 
-## <div align = "left"> :movie_camera: Multimedia Hobbyist </div>
-<p align = "left"> chuchuchuchu </p>
 
 
 ## Get in Touch 
