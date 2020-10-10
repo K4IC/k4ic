@@ -18,6 +18,7 @@
 # <div align = "center"> Sneakerhead x Multimedia Hobbyist </div>
 <div align = "center"> <em> Me in a nutshell </em> </div>
 
+<img src="Test.png" width = "40%" height = "40%" img align = "right"> 
 
 ## <div align = "right"> :movie_camera: Multimedia Hobbyist </div>
 <p align = "right"> chuchuchuchu </p>
