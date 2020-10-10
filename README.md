@@ -9,7 +9,7 @@
 <img src="profile.jpg" width = "140px" height = "140px" img align = "left"> 
 
 #### Kristian Allan Icay Cabida
-<em>    Born on May 17, 2000 </em>
+    Born on May 17, 2000 
     Studies at West Visayas State University
     Takes up Bachelor of Science in Information Technology
     A person who collects, trades, or admires sneakers as a hobby.
