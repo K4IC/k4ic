@@ -1,4 +1,4 @@
-<img src="Sunset.png"  width = "100%" height = "400px" img align = "center"> 
+<img src="Sunset.png"  width = "100%" height = "350px" img align = "center"> 
 
 ## Hi, Im Allan 👋
 
